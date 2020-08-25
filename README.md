@@ -1,5 +1,5 @@
 # Fe2O3
-A Chip8 interpreter/emulator written in rust.
+A simple Chip8 interpreter/emulator written in rust.
 
 # Build
 ```
